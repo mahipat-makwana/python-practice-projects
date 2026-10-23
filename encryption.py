@@ -1,3 +1,5 @@
+print('Project - Encryption / Decryption')
+
 def enigma_light():
 # create keys string
     keys = 'abcdefghijklmnopqrstuvwxyz !'
